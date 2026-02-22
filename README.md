@@ -5,14 +5,19 @@ Welcome to the Python Learning repository! This repository contains Python pract
 ## 📁 Files
 
 ### Task 1.py
-- **Description**: First Python learning task
-- **Purpose**: Practice fundamental Python concepts
-- **Size**: 321 bytes
+- **Description**:  Perform Basic Mathematical Operations
+- **Problem Statement**: Write a Python program that does the following:
+1.  Takes two numbers as input from the user.
+2.  Performs the basic mathematical operations on these two numbers:
+    o	Addition
+    o	Subtraction
+    o	Multiplication
+    o	Division
+3.  Displays the results of each operation on the screen.
 
 ### Task 2.py
-- **Description**: Second Python learning task
+- **Description**:  Create a Personalized Greeting
 - **Purpose**: Continue learning and practice Python skills
-- **Size**: 169 bytes
 
 ## 🚀 How to Use
 
@@ -30,8 +35,8 @@ python "Task 2.py"
 
 ## 📚 Learning Path
 
-- **Task 1**: Foundation concepts
-- **Task 2**: Intermediate practices
+- **Task 1**: Perform Basic Mathematical Operations
+- **Task 2**:  Create a Personalized Greeting
 
 ## 💡 Tips
 - Review the code comments in each file
@@ -44,5 +49,5 @@ Keep track of your progress and add new learning tasks regularly.
 
 ---
 
-**Author**: ShadowTechIndia  
+**Author**: shivam  
 **Repository**: [python-learning](https://github.com/ShadowTechIndia/python-learning)
