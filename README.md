@@ -1,4 +1,4 @@
-<img width="825" height="612" alt="image" src="https://github.com/user-attachments/assets/d96130c6-e137-4147-8e94-f6b50cd82af5" /># Python Learning Repository
+# Python Learning Repository
 
 Welcome to the Python Learning repository! This repository contains Python practice tasks and learning exercises.
 
