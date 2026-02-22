@@ -1,64 +1,58 @@
-# Python Learning Repository
+# 📚 Python Learning
 
-Welcome to the Python Learning repository! This repository contains Python practice tasks and learning exercises.
+## 📑 Table of Contents
+- [About](#about)
+- [Files](#files)
+- [Getting Started](#getting-started)
+- [How to Use](#how-to-use)
+- [Learning Progress](#learning-progress)
+- [Contributing](#contributing)
+- [Author](#author)
+- [License](#license)
+- [Support](#support)
+- [Last Updated](#last-updated)
+
+## 🔍 About
+This repository is designed to help individuals learn Python programming through practical examples and projects. It covers various topics in Python, tailored for both beginners and intermediate learners.
 
 ## 📁 Files
+- `file1.py`: Explanation of basic syntax and hello world program.
+- `file2.py`: Functions and modules.
+- `file3.py`: Object-oriented programming concepts.
 
-### Task 1.py
-- **Description**:  Perform Basic Mathematical Operations
-- **Problem Statement**: Write a Python program that does the following:
-1.  Takes two numbers as input from the user.
-2.  Performs the basic mathematical operations on these two numbers:
-    o	Addition
-    o	Subtraction
-    o	Multiplication
-    o	Division
-3.  Displays the results of each operation on the screen.
-Expected Output:
-The program should output a greeting like:
-<img width="797" height="327" alt="image" src="https://github.com/user-attachments/assets/7fe3dae3-0f0b-4380-ae32-d298e9d7a927" />
+## 🚀 Getting Started
+To get a local copy up and running, follow these simple steps:
+1. Clone the repo: `git clone https://github.com/ShadowTechIndia/python-learning.git`
+2. Navigate into the directory: `cd python-learning`
+3. Install any necessary dependencies.
 
+## 🛠️ How to Use
+- Open your Python IDE or any code editor.
+- Run the Python files to see the results and modify them as needed to practice.
 
-### Task 2.py
-- **Description**:  Create a Personalized Greeting
-- **Problem Statement**: Write a Python program that:
-1.  Takes a user's first name and last name as input.
-2.  Concatenates the first name and last name into a full name.
-3.  Prints a personalized greeting message using the full name.
-Expected Output:
-The program should output a greeting like:
-<img width="761" height="233" alt="image" src="https://github.com/user-attachments/assets/158203d4-1c7f-477c-894e-9971b276b313" />
+## 📊 Learning Progress
+- [x] Basic Syntax
+- [x] Control Structures
+- [ ] Functions and Modules
+- [ ] Object-Oriented Programming
+- [ ] Advanced Topics
 
+## 🤝 Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**!
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-## 🚀 How to Use
+## 👤 Author
+**Shivam**
 
-1. Clone this repository:
-```bash
-git clone https://github.com/ShadowTechIndia/python-learning.git
-cd python-learning
-```
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-2. Run the Python files:
-```bash
-python "Task 1.py"
-python "Task 2.py"
-```
+## 🆘 Support
+For support, open an issue on this project or contact the author directly at shivam@example.com.
 
-## 📚 Learning Path
-
-- **Task 1**: Perform Basic Mathematical Operations
-- **Task 2**:  Create a Personalized Greeting
-
-## 💡 Tips
-- Review the code comments in each file
-- Try to understand what each task does
-- Modify and experiment with the code
-- Add more tasks as you learn!
-
-## 📝 Notes
-Keep track of your progress and add new learning tasks regularly.
-
----
-
-**Author**: shivam  
-**Repository**: [python-learning](https://github.com/ShadowTechIndia/python-learning)
+## 📅 Last Updated
+**2026-02-22**
